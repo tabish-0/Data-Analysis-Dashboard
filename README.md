@@ -3,11 +3,11 @@
 To analyze and visualize the sales performance of various vehicle types (bikes, cars, trains, ships, etc.) across different locations and customer segments. The dashboard provides insights into profit margins, sales trends, and key performance indicators (KPIs).
 
 # Dataset Used
-Vehicle sales data (bikes, cars, trains, ships, etc.)
-Employee details
-Customer information
-Order details
-City and country-wise sales data
+Vehicle sales data (bikes, cars, trains, ships, etc.)  
+Employee details  
+Customer information  
+Order details  
+City and country-wise sales data  
 
 # Key Questions & KPIs
 What is the total sales revenue and profit margin across different vehicle categories?
