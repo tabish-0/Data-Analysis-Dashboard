@@ -31,8 +31,9 @@ To analyze and visualize the sales performance of various vehicle types (🚲 bi
 📊 Created interactive dashboards using charts, pie graphs, bar charts, and slicers  
 🤖 Implemented AI-powered insights for deeper analysis  
 # 🖼️ Dashboard Preview  
-📌 **[Download Power BI Dashboard (.pbix file)](https://github.com/tabish-0/Power-BI-Dashboard/blob/main/Module2.pbix)**  
-📌 **[View Dashboard Screenshot](https://github.com/tabish-0/Power-BI-Dashboard/blob/main/Screenshot%202025-02-25%20153731.png)**  
+📌 **[Download Power BI Dashboard (.pbix file)](https://github.com/tabish-0/Power-BI-Dashboard/blob/main/Module2.pbix)** 
+
+📌 **[View Dashboard](https://github.com/tabish-0/Power-BI-Dashboard/blob/main/Screenshot%202025-02-25%20153731.png)**  
 
 # 🚀 Features  
 ✅ Interactive filters & slicers 🎛️  
