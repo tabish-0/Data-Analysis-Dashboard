@@ -20,10 +20,12 @@ To analyze and visualize the sales performance of various vehicle types (🚲 bi
 🔹 🧹 Data Cleaning & Transformation:  
 
 🗑️ Removed duplicates and missing values  
-🏗️ Standardized formats and merged datasets  
+🏗️ Standardized formats and merged datasets 
+
 🔹 📊 KPI Calculation:  
 
-💵 Sales revenue, 📈 profit percentage, 📦 order volume, etc.  
+💵 Sales revenue, 📈 profit percentage, 📦 order volume, etc. 
+
 🔹 📉 Visualization Design:  
 
 📊 Created interactive dashboards using charts, pie graphs, bar charts, and slicers  
