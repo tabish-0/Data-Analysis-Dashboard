@@ -30,10 +30,10 @@ To analyze and visualize the sales performance of various vehicle types (🚲 bi
 
 📊 Created interactive dashboards using charts, pie graphs, bar charts, and slicers  
 🤖 Implemented AI-powered insights for deeper analysis  
-🖼️ Dashboard Preview  
+# 🖼️ Dashboard Preview  
 📌 (Attach a screenshot or link to the dashboard)  
 
-🚀 Features  
+# 🚀 Features  
 ✅ Interactive filters & slicers 🎛️  
 ✅ AI-powered insights 🤖  
 ✅ Dynamic KPI visualizations 📈  
